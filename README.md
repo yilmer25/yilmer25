@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Yilmer Nicolas Nieto Buitrago
 
-<!--
-**yilmer25/yilmer25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de programación](enlace-de-tu-imagen-o-gif)
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy estudiante de **Análisis y Desarrollo de Software**. Actualmente estudio en el **SENA** y cuento con formación técnica en programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Herramientas y Tecnologías
+Aquí puedes usar imágenes o iconos de [Shields.io](https://shields.io/) o [Skill Icons](https://skillicons.dev).
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,java,mysql" />
+</p>
+
+## 🎯 OBJETIVO
+* Convertirme en un desarrollador sólido, creando proyectos útiles y mejorando constantemente mis habilidades en programación.
+
+## 📈 Estadísticas
+Para las estadísticas que se ven en la imagen, se utiliza la herramienta **GitHub Readme Stats**. Copia y pega esto (cambiando `TU-USUARIO`):
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
