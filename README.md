@@ -1,5 +1,5 @@
 # 👨‍💻 Yilmer Nicolas Nieto Buitrago
-### Desarrollador de Software en Formación | Estudiante del SENA 🇨🇴
+ Estudiante del SENA 🇨🇴
 
 ---
 
