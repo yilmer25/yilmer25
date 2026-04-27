@@ -7,7 +7,6 @@
 ### 🚀 Sobre mí
 
 * 💻 Actualmente aprendo nuevas formas de escribir código y mejorar mis habilidades.
-* 📊 Me gusta trabajar con bases de datos y entender cómo organizar la información.
 * 📚 Siempre estoy buscando herramientas nuevas para seguir creciendo como desarrollador.
 
 ### 🛠️ Herramientas y Tecnologías
@@ -28,9 +27,8 @@ Mi meta es convertirme en un desarrollador preparado, creando proyectos que sean
 
 ### 📊 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&locale=es" alt="Estadísticas de GitHub" />
-</p>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yilmer25&show_icons=true&theme=radical)
+
 
 ---
 
