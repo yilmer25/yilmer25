@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil de GitHub! Soy estudiante de **Análisis y Desarrollo de Software** en el **SENA**, con mucho interés por la programación y por aprender a crear aplicaciones que funcionen bien.
 
 ---
-<img width="1024" height="299" alt="descarga (1)" src="https://github.com/user-attachments/assets/b6752c9d-6b05-465f-819b-ce3168a0a7ae" />
+<img width="1920" height="560" alt="descarga (1)" src="https://github.com/user-attachments/assets/c20d30a4-13b2-405a-b8ba-8e6fe9b5f11f" />
 
 
 
